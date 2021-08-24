@@ -460,7 +460,7 @@ function kataExtra03 (){
 
 kataExtra03();
 
-function kataExtra04 (){
+/*function kataExtra04 (){
     const newDivKata = document.createElement('div');
     const newKataHeder = document.createElement('h2');
     const newKataBody = document.createElement('p');
@@ -489,5 +489,4 @@ function kataExtra04 (){
      return bodyRedident.appendChild(newDivKata);
 }
 
-kataExtra04();
-
+kataExtra04();*/
